@@ -1,3 +1,5 @@
+.venv/
 creditcard.csv
 .ipynb_checkpoints/
 __pycache__/
+*.pycgit status
