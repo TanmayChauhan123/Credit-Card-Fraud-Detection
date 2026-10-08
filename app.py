@@ -14,14 +14,14 @@ with open("demo_transactions.json", "r") as file:
 
 # Page configuration
 st.set_page_config(
-    page_title="Credit Card Fraud Detection",
+    page_title="Credit Card Fraud Detection System",
     page_icon="💳",
     layout="wide"
 )
 
 
 # Title
-st.title("💳 Credit Card Fraud Detection")
+st.title("💳 Credit Card Fraud Detection System")
 
 st.write(
     "This application uses a trained Random Forest model "
